@@ -1,4 +1,4 @@
-function ch = rolling_v6(~, evnt)
+function ch = ATOM_matlabcode(~, evnt)
 % Corrected the gains for 4s battery model
 global exec_t_start off_dir s1 data count...
     Kp_slm Kd_slm phi_s C omega_fac base_thrust;
